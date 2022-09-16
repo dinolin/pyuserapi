@@ -23,7 +23,7 @@ Flask-WTF==0.14.2
 idna==2.6
 itsdangerous==0.24
 Jinja2==2.10
-Mako==1.0.7
+Mako==1.2.2
 MarkupSafe-slow==1.0
 marshmallow==2.15.3
 #mysqlclient==1.3.12
